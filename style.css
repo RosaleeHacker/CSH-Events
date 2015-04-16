@@ -1,0 +1,82 @@
+* {
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+body {
+    background:white;
+}
+
+h1 {
+	font-size:27px;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color:white;
+    margin-left:50px;
+}
+
+.banner {
+	background-color:#9d4799;
+	width:100%;
+	height:45px;
+    margin-top:0;
+    top:0;
+	left:0;
+    position:absolute;
+    z-index:-1;
+}
+
+.banner1 {
+    background-color:#df0051;
+    width:100%;
+    height:15px;
+    margin-top:55px;
+    top:0;
+    left:0;
+    position:absolute;
+    z-index:-1;
+}
+
+.table {
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    position:absolute;
+    top:200px;
+    left:10px;
+}
+
+.modal.custom .modal-dialog {
+    width:50%;
+    margin:0 auto;
+    /*add what you want here*/
+}
+
+#myModal {
+    color:#9d4799;
+}
+
+.shit {
+    float:right;
+    width:92%;
+}
+
+#myModal1 {
+top:5%;
+right:50%;
+outline: none;
+}
+
+
+#modalbutton{
+    position:absolute;
+    top:87px;
+    left:60px;
+}
+
+#myModalLabel {
+    color:#9d4799;
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight:bold;
+}
+
+.header {
+    font-weight:bold;
+    font-size:18px;
+}
